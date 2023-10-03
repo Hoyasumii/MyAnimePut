@@ -1,0 +1,8 @@
+26-2-22: Simplificação da Organização de Cache.json
+26-2-22: Início da Reestruturação do Código
+26-2-22: Implementação dos Threads, com excessão da Barra de Pesquisa, pois para a visualização da capa do anime, é necessário que a função não seja executada em um Thread
+26-2-22: Mensagem de Erro para o usuário quando o Token estiver Inválido
+26-2-22: Início da implementação do Menu de Configurações
+26-2-22: As nomenclaturas dos objetos de cache.json foram alteradas
+26-2-22: Menu de Configurações Concluído
+26-2-22: Término do Projeto.
